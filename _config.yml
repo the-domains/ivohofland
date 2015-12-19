@@ -1,0 +1,28 @@
+name: ivohofland
+favicon: null
+layout_spectrum: 0.0911919220816344
+typography_spectrum: 0.4061772245913744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.03756579011678696
+  lightness: 0.29876480530947447
+  saturation: 0.10268468805588782
+  rhythmicContrast: 0.2890034846495837
+purpose: []
